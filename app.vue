@@ -1,7 +1,6 @@
 <template>
   <div class="h-screen bg-gradient-to-r from-cyan-500 to-blue-500 background-animate">
     <NuxtPage />
-    <UNotifications />
   </div>
 </template>
 
