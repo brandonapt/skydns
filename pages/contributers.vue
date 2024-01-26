@@ -23,9 +23,9 @@
 
 
     </div>
-    <div class="bg-white rounded-lg shadow-lg mt-20 py-5 w-[50rem] mx-auto text-center border border-orange-500 border-2 hover:text-blue-800 transition">
+    <div class="bg-white rounded-lg shadow-lg mt-20 py-5 w-[50vw] mx-auto text-center border border-orange-500 border-2 hover:text-blue-800 transition">
         <NuxtLink to="https://discord.gg/evFbgBpmMf">
-        <h1 class="text-2xl font-bold">Skylands Reverse Engineering Discord ❤️</h1>
+        <h1 class="text-xl font-bold">Skylands Reverse Engineering Discord ❤️</h1>
       </NuxtLink>
       </div>
   </div>

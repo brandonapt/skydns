@@ -57,7 +57,7 @@ async function copyToClipboard(textToCopy) {
       </a>
     </div>
   </div>
-  <div class="mx-auto text-center absolute top-[50rem] left-0 right-0">
+  <div class="mx-auto text-center absolute top-[94vh] left-0 right-0">
     <NuxtLink to="/contributers">
       <a
         target="_blank"
