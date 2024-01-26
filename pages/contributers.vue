@@ -16,10 +16,17 @@
         <h1 class="text-md">DNS, Website, and Hosting</h1>
       </NuxtLink>
       </div>
-      <div class="bg-white rounded-lg shadow-lg mt-5 p-10 text-center border border-pink-500 border-2 hover:text-blue-800 transition">
+      <div class="bg-white rounded-lg shadow-lg mt-5 p-10 text-center border border-green-500 border-2 hover:text-blue-800 transition">
         <h1 class="text-2xl font-bold">cactusos</h1>
         <h1 class="text-md">Providing the files</h1>
       </div>
+
+
     </div>
+    <div class="bg-white rounded-lg shadow-lg mt-20 py-5 w-[50rem] mx-auto text-center border border-orange-500 border-2 hover:text-blue-800 transition">
+        <NuxtLink to="https://discord.gg/evFbgBpmMf">
+        <h1 class="text-2xl font-bold">Skylands Reverse Engineering Discord ❤️</h1>
+      </NuxtLink>
+      </div>
   </div>
 </template>
