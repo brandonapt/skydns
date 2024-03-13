@@ -1,2 +1,2 @@
 # push to da server
-mv .output/public/* /var/www/html/ -f
+mv -f .output/public/* /var/www/html/ 
