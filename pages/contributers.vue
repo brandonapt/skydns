@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h1 class="text-4xl text-white font-bold text-center relative top-28">
-      Contributers
+    <h1 class="text-4xl text-white font-bold text-center relative top-14">
+      Contributers <3
     </h1>
-    <div class="text-center mx-auto w-96 mt-36">
+    <div class="text-center mx-auto w-96 absolute top-[20vh] left-0 right-0">
       <div class="bg-white rounded-lg shadow-lg p-10 text-center border border-purple-500 border-2 hover:text-blue-800 transition">
         <NuxtLink to="https://github.com/nefarioustechsupport">
         <h1 class="text-2xl font-bold">NefariousTechSupport</h1>
@@ -23,9 +23,9 @@
 
 
     </div>
-    <div class="bg-white rounded-lg shadow-lg mt-20 py-5 w-[50rem] mx-auto text-center border border-orange-500 border-2 hover:text-blue-800 transition">
+    <div class="bg-white rounded-lg shadow-lg absolute bottom-10 left-0 right-0 py-5 w-[50vw] mx-auto text-center border border-orange-500 border-2 hover:text-blue-800 transition">
         <NuxtLink to="https://discord.gg/evFbgBpmMf">
-        <h1 class="text-2xl font-bold">Skylands Reverse Engineering Discord ❤️</h1>
+        <h1 class="text-xl font-bold">Skylanders Reverse Engineering Discord ❤️</h1>
       </NuxtLink>
       </div>
   </div>
